@@ -1,0 +1,79 @@
+.top {
+
+margin-top: 2em;
+text-align: center;
+height: 2em;
+font-size: 1.75em;
+font-weight: bold;
+font-family: Arial, "Times New Roman", serif;
+
+}
+
+.bigpiece {
+
+background-color: blue;
+padding: 2em;
+width: 73em;
+height: 21em;
+font-size: 1em;
+margin-bottom: 1.5em;
+margin-left: 3.5em;
+
+}
+
+.middlepiece {
+
+border-style: solid;
+border-color: white;
+background-color: red;
+width:50em;
+height: 20em;
+float: left;
+word-wrap: break-word;
+text-align:center;
+
+}
+
+.leftpiece {
+
+border-style: solid;
+border-color: orange;
+background-color: yellow;
+width: 4em;
+height: 20em;
+float: left;
+margin-right: 2em;
+
+}
+
+.rightpiece {
+
+border-style: solid;
+border-color: lightblue;
+background-color: black;
+width: 13em;
+height: 20em;
+float: left;
+margin-left: 2em;
+
+}
+
+.bottom {
+text-align: center;
+margin-top: 1.5em;
+
+}
+
+
+.rightpiece img {
+
+margin-top: 5em;
+width: 100%;
+height: 100%;
+
+}
+
+.keeplinebreaks{
+white-space:pre; 
+
+}
